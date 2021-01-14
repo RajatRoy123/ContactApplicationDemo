@@ -5,9 +5,3 @@ save = "com.samsung.android.contacts:id/menu_done"
 
 ContactNames = ['Automation1', 'Automation2', 'Automation3']
 ContactNumbers = [986521234, 934567, 23456789]
-
-
-ContactNames = ['Automation1', 'Automation2', 'Automation3']
-ContactNumbers = [986521234, 934567, 23456789]
-ContactNames = ['Automation1', 'Automation2', 'Automation3']
-ContactNumbers = [986521234, 934567, 23456789]
